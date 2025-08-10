@@ -4,5 +4,5 @@
 
   Para ejecutar el istema debes poner:
   ''' npm install react'''
-
+ modificacion sistema de registro
   
